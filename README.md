@@ -1,0 +1,3 @@
+Note, some information/files have been removed or redacted for security measures. However, as the project is no longer live and no real client information was ever used, some IDs or secrets may have been  in the repo.  
+
+Web based project management application for community service organizations on grounds and in the greater Charlottesville area equiped with in app communication, security authentication, social media integration, to-do lists, calendars and more.
